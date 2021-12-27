@@ -8,7 +8,7 @@
 
 ### Solution
 
-- Decode the given `QR Code`.
+- Decode the given QR Code.
 
 #### Decoded Result
 
