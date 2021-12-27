@@ -21,11 +21,12 @@ https://mega.nz/folder/xIok3bhY#kMN0Rs2DcQjgCwnYDjXDIA
 - The **Mega link** gives **3** more QR Codes 
 
 <div align = "center">
-	
   
 | ![1](https://user-images.githubusercontent.com/52845731/147487563-607caea9-1680-4b1f-8128-d9baa7c48c0c.png) | ![2](https://user-images.githubusercontent.com/52845731/147487572-50b4570e-018d-4f5d-bb81-babfd1a4c1ac.png) | ![3](https://user-images.githubusercontent.com/52845731/147491209-c0a19f6e-19a0-4180-87a1-61b498a08d99.png) | 
 |----------------|----------------|----------------|
 | QR Code 1 | QR Code 2 | QR Code 3 |
+	
+- From the decoded results of the ideal QR Code, it's evident that finding the **missing** words and **concatenating** them in **lowercase** using **underscore** to gives the flag
 
 #### Decoded Result of QR Code 1
 
@@ -86,7 +87,7 @@ Missing Word : garment
 
 ### Flag
 
-inctfj{queen_diamond_garment}
+> inctfj{queen_diamond_garment}
 
 ### Author
 
