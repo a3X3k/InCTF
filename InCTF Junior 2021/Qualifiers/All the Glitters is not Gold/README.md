@@ -27,7 +27,7 @@ https://mega.nz/folder/xIok3bhY#kMN0Rs2DcQjgCwnYDjXDIA
 |----------------|----------------|----------------|
 | QR Code 1 | QR Code 2 | QR Code 3 |
 
-#### Decoded Result of QR 1
+#### Decoded Result of QR Code 1
 
 ```
 Over hill, over dale,
@@ -46,7 +46,7 @@ I must go seek some dewdrops here,
 And hang a pearl in every cowslip's ear.
 ```
 
-#### Decoded Result of QR 2
+#### Decoded Result of QR Code 2
 
 ```
 The _______,--why, 'twas beautiful and hard,
@@ -58,7 +58,7 @@ With objects manifold: each several stone,
 With wit well blazon'd, smiled or made some moan.
 ```
 
-#### Decoded Result of QR 3
+#### Decoded Result of QR Code 3
 
 ```
 Thus merely with the _______ of a Grace
