@@ -2,11 +2,11 @@
 
 ### Challenge Description
 
-- Shakespeare gave three Poems to his three children respectively and asked them to complete it by finding the missing words. Can you help them to complete it?
+> Shakespeare gave three Poems to his three children respectively and asked them to complete it by finding the missing words. Can you help them to complete it?
 
 **Flag format :** inctfj{diamond_gold_silver} (Use lowercase letters and concatenate the words)
 
-### Short Writeup
+### Solution
 
 - Scan the given `QR Code` using `zbarimg`
 - This will display the URL which has 3 more QR codes in it.
