@@ -6,8 +6,12 @@
 
 ### Solution
 
-- The given PNG is corrupted because of improper dimensions.
-- Using `TweakPNG` tool, increase the width by 1 to get the flag.
+- From the challenge description it's evident that the PNG's dimension ( width ) is incorrect.
+- Using `TweakPNG` tool, increase the width by **1** to get the flag.
+
+![image](https://user-images.githubusercontent.com/52845731/147435623-18bb58d1-0cc8-4348-9ebc-44ebf9f64ba5.png)
+
+![image](https://user-images.githubusercontent.com/52845731/147435658-24376301-b818-4f92-9b65-8b8ad7226639.png)
 
 ### Flag
 
