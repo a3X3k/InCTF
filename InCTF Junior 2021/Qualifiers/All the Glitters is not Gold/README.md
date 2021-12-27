@@ -50,6 +50,14 @@ Find the missing words and concatenate them in lowercase using underscore to get
 https://mega.nz/folder/xIok3bhY#kMN0Rs2DcQjgCwnYDjXDIA
 ```
 
+<div align = "center">
+	
+  
+| ![1](https://user-images.githubusercontent.com/52845731/147487563-607caea9-1680-4b1f-8128-d9baa7c48c0c.png) | ![2](https://user-images.githubusercontent.com/52845731/147487572-50b4570e-018d-4f5d-bb81-babfd1a4c1ac.png) |
+|----------------|----------------|
+</div>
+
+
 ### Flag
 
 inctfj{queen_diamond_garment}
