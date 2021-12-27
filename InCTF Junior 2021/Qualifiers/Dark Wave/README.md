@@ -14,7 +14,7 @@
 
 ## Flag
 
-inctfj{c4n_y0u_v1su4l1z3_m3?}
+> inctfj{c4n_y0u_v1su4l1z3_m3?}
 
 ## Author
 
