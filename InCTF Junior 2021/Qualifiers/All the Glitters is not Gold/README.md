@@ -24,8 +24,8 @@ https://mega.nz/folder/xIok3bhY#kMN0Rs2DcQjgCwnYDjXDIA
 	
   
 | ![1](https://user-images.githubusercontent.com/52845731/147487563-607caea9-1680-4b1f-8128-d9baa7c48c0c.png) | ![2](https://user-images.githubusercontent.com/52845731/147487572-50b4570e-018d-4f5d-bb81-babfd1a4c1ac.png) | ![3](https://user-images.githubusercontent.com/52845731/147491209-c0a19f6e-19a0-4180-87a1-61b498a08d99.png) | 
-| QR 1 | QR 2 | QR 3 |
 |----------------|----------------|----------------|
+| QR 1 | QR 2 | QR 3 |
 
 Over hill, over dale,
 Thorough bush, thorough brier,
