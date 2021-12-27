@@ -8,7 +8,16 @@
 
 ### Solution
 
-- Scan the given `QR Code` using `zbarimg`
+- Decode the given `QR Code`.
+
+#### Decoded Result
+
+```
+Find the missing words and concatenate them in lowercase using underscore to get the flag.  
+
+https://mega.nz/folder/xIok3bhY#kMN0Rs2DcQjgCwnYDjXDIA
+```
+
 - This will display the URL which has 3 more QR codes in it.
 - Download the 3 QR Codes 
 - Decoding all three QR codes gives 3 incomplete poem respectively.
