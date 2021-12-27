@@ -3,8 +3,7 @@
 ### Challenge Description
 
 > Shakespeare gave three Poems to his three children respectively and asked them to complete it by finding the missing words. Can you help them to complete it?
-
-**Flag format :** inctfj{diamond_gold_silver} (Use lowercase letters and concatenate the words)
+> **Flag format :** inctfj{diamond_gold_silver} (Use lowercase letters and concatenate the words)
 
 ### Solution
 
