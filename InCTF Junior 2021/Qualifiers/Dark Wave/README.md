@@ -2,7 +2,7 @@
 
 ## Challenge Description
 
-- Can you visualize sound?
+> Can you visualize sound?
 
 ## Solution
 
