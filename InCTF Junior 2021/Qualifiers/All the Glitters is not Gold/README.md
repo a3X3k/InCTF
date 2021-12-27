@@ -45,6 +45,10 @@ In those freckles live their savours;
 I must go seek some dewdrops here,
 And hang a pearl in every cowslip's ear.
 ```
+	
+```
+**Missing Word :** queen
+```
 
 #### Decoded Result of QR Code 2
 
@@ -58,6 +62,11 @@ With objects manifold: each several stone,
 With wit well blazon'd, smiled or made some moan.
 ```
 
+```
+**Missing Word :** diamond
+```
+
+
 #### Decoded Result of QR Code 3
 
 ```
@@ -69,6 +78,11 @@ Who, young and simple, would not be so lover'd?
 Ay me! I fell; and yet do question make
 What I should do again for such a sake.
 ```
+
+```
+**Missing Word :** garment
+```
+
 	
 </div>
 
