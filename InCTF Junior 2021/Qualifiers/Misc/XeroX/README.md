@@ -14,11 +14,11 @@
 - From the description and hints, its evident that something is either **identical/not identical** between the two images.
 - Comparing the **hex chunks** of the images and concatenating all the **distinct chunks** gives the flag.
 
-```py
+```js
 cmp -l -b 1.jpg 2.jpg
 ```
 
-```py
+```c
 178614 151 i     76 >
 178697 156 n    323 M-S
 178857 143 c     51 )
