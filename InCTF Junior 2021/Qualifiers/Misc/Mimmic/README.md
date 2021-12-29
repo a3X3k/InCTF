@@ -9,8 +9,8 @@ Flag format : inctfj{}
 ### Hints
 
 - No use of Stegsnow :)
-- Spam Spam Spam... Google it up for spam!!
-- Decode space
+- Your flag has been encoded into something which looks innocent.
+- Decode the message from Spam-Encoded.
 
 ### Solution
 
