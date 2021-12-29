@@ -2,21 +2,24 @@
 
 ### Challenge Description
 
-- Do you actually know that you can encrypt your secrets as tabs and spaces in the form spam?
-- Flag format : inctf{}
+> Do you actually know that you can encrypt your secrets as tabs and spaces in the form spam?
 
-**Challenge File**
+Flag format : inctfj{}
 
-+ [Primary Link]()
+### Hints
 
-### Short writeup
+- No use of Stegsnow :)
+- Spam Spam Spam... OSINT for spam!!
+- Decode space
 
-- From the challenge name its clear that the secret message is given as spam.
-- Decoding the space and tab encosed characters gives the flag.
+### Solution
+
+- From the challenge name and hints its evident that the secret message is given as spam.
+- [Decoding](https://www.spammimic.com/decodespace.shtml) the space and tab enclosed characters gives the flag. 
 
 ### Flag
 
-inctf{sp4mm1m1c_1s_1nt3r3st1ng_1sn't_1t??}
+> inctfj{sp4mm1m1c_1s_1nt3r3st1ng_1sn't_1t??}
 
 ### Author
 
