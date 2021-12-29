@@ -4,6 +4,10 @@
 
 > Tweak the Image width by width until it shows what you want it to show!
 
+### Hints
+
+- Is there anything odd in Exif?
+
 ### Solution
 
 - From the challenge description it's evident that the PNG's dimension ( width ) is incorrect.
