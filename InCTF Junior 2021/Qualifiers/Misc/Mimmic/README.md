@@ -15,7 +15,7 @@ Flag format : inctfj{}
 ### Solution
 
 - From the challenge name and hints its evident that the secret message is given as spam.
-- [Decoding](https://www.spammimic.com/decodespace.shtml) the space and tab enclosed characters gives the flag. 
+- [Decoding](https://www.spammimic.com/decodespace.shtml) the space and tab enclosed characters gives the [pastebin](https://pastebin.com/embed_js/0sHZNAj2) link which has the flag. 
 
 ### Flag
 
