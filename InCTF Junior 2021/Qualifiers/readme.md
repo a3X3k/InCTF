@@ -1,3 +1,5 @@
+<div align = "center">
+
 | Challenge    | Category | Difficulty |  Points |
 | :---:       |    :----:   |    :---:      |  :---:    |
 | [All the Glitters is Not Gold](https://github.com/a3X3k/InCTF/tree/main/InCTF%20Junior%202021/Qualifiers/Forensics/All%20the%20Glitters%20is%20not%20Gold) |  Forensics | Easy | 150 |
@@ -6,3 +8,6 @@
 | [Glyphy Tweet](https://github.com/a3X3k/InCTF/tree/main/InCTF%20Junior%202021/Qualifiers/Misc/Glyphy%20Tweet) |  Misc | Beginner | 25 |
 | [Mimmic](https://github.com/a3X3k/InCTF/tree/main/InCTF%20Junior%202021/Qualifiers/Misc/Mimmic) |  Misc | Beginner | 50 |
 | [XeroX](https://github.com/a3X3k/InCTF/tree/main/InCTF%20Junior%202021/Qualifiers/Misc/XeroX) |  Misc | Medium | 50 |
+
+</div>
+
