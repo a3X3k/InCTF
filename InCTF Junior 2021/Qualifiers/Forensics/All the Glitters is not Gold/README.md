@@ -6,6 +6,10 @@
 
 **Flag format :** inctfj{diamond_gold_silver} (Use lowercase letters and concatenate the words)
 
+### Hints
+
+- Google has everyone's details.
+
 ### Solution
 
 - Decode the given QR Code.
