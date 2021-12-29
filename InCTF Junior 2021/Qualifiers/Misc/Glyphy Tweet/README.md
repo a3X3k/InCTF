@@ -2,21 +2,24 @@
 
 ### Chall Description
 
-- Not only Homo sapiens are identical or nearly identical in appearance to one another, but also characters.
-- Flag format : inctf{}
+> Not only Homo sapiens are identical or nearly identical in appearance to one another, but also characters.
 
-**Challenge File**
+Flag format : inctfj{}
 
-+ [Primary Link]()
+### Hints
 
-### Short writeup
+- No use of Stegsnow :)
+- You can send your secret messages in twitter.
+- One of the two or more characters appear identical or very similar.
 
-- This challenge is based on Homoglyphs Steganography.
-- Decoding it gives the flag.
+### Solution
+
+- This challenge is based on **Homoglyphs Steganography** which can be used to hide secret messages in twitter tweets (or any text).
+- [Decoding](https://holloway.nz/steg/) it gives the flag.
 
 ### Flag
 
-inctf{tw1tt3r_53cr3t_m3554g35_h1d35_m3554g35_1n_1t}
+> inctfj{tw1tt3r_53cr3t_m3554g35_h1d35_m3554g35_1n_1t}
 
 ### Author
 
