@@ -15,6 +15,15 @@ Flag format : inctfj{}
 ### Solution
 
 - This challenge is based on **Homoglyphs Steganography** which can be used to hide secret messages in twitter tweets (or any text).
+
+```
+Stｅgaｎoｇｒａphy ｉs thｅ aｒt оｆ сｏnϲeaｌｉng ｉnｆoｒmａtⅰon． Ｉｎ cｏｍpｕteｒ ｓｃｉeｎcｅ, iｔ ｒｅｆeｒs ｔｏ hⅰｄіng dａｔａ ｗⅰｔｈｉｎ ａ ｍｅsｓａge ｏｒ ｆⅰｌｅ． 
+It sｅｒνｅs ａ ｓіｍⅰｌar ｐuｒｐοｓe ｔο ｃｒyｐｔoｇｒａpｈy， ｂｕt ｉnstead of encrypting data, steganography simply hides it from the user. 
+Invisible ink is an example of steganography that is unrelated to computers. 
+A person can write a message with clear or "invisible" ink that can only be seen when another ink or liquid is applied to the paper. 
+Similarly, in digital steganography, the goal is to hide information from users except those who are meant to see or hear it.
+```
+
 - [Decoding](https://holloway.nz/steg/) it gives the flag.
 
 ### Flag
