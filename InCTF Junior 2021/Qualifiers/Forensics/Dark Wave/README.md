@@ -4,6 +4,10 @@
 
 > Can you visualize sound?
 
+### Hints
+
+- How do you analyse the frequencies?
+
 ### Solution
 
 - From the description it's evident that this challenge is related to** Spectrogram**.
