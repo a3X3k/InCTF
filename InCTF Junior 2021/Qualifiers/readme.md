@@ -1,6 +1,8 @@
 <div align = "center">
   
 # InCTF Junior 2021 Qualifiers
+  
+<br/>
 
 | Challenge    | Category | Difficulty |  Points |
 | :---:       |    :----:   |    :---:      |  :---:    |
