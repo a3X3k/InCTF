@@ -9,7 +9,7 @@ Flag format : inctfj{}
 ### Hints
 
 - No use of Stegsnow :)
-- Spam Spam Spam... OSINT for spam!!
+- Spam Spam Spam... Google it up for spam!!
 - Decode space
 
 ### Solution
