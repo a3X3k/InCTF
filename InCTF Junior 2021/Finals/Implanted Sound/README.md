@@ -10,7 +10,7 @@
 
 - From the challenge description we can get a hint that, `Binwalk` has to be used to extract some files from the **Horror.jpg**.
 
-```python=
+```py
 binwalk Horror.wav
 ```
 
