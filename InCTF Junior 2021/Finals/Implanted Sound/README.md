@@ -10,12 +10,17 @@
 
 ## Write up
 
-Using `binwalk` the hidden `Horror.wav` can be extracted.
+- From the challenge description we can get a hint that, `Binwalk` has to be used to extract some files from the **Horror.jpg**.
 
-Initial analysis would be morse code translation, but it doesn't make any sense.
+```python=
+binwalk Horror.wav
+```
 
-The challenge description as well as the image hints that there is some thing to be reversed.
+- Using binwalk the hidden **Horror.wav** can be extracted.
+- Initial analysis would be **Morse Code** translation, but it doesn't make any sense.
+- The challenge **description** as well as the image hints that there is some thing to be **reversed**.
+- **Reverse** the audio and try for **Morse Code** to get the flag.
 
-Reverse the audio and try for morse code to get the flag.
+## Flag
 
-### Flag - inctfj{15n't_m0r53_c00l??}
+> inctfj{15n't_m0r53_c00l??}
