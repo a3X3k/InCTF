@@ -1,4 +1,4 @@
-## Chall name 
+## Challenge Name
 
 > Implanted Sound
 
